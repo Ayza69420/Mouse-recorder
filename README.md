@@ -10,7 +10,7 @@ You have to create an instance of the ``Mouse`` class, it takes two optional arg
 
 Recording can be done using the ``record`` function, which will record all events until the stop key is pressed, all events will be stored in the ``events`` variable which will then later be used by the ``replay`` function to play all the events.
 
-While It's not a feature to save recorded events yet and probably never, you could do it yourself and print the ``events`` variable once you finished recording which then you could replace the variable's value as a way of "saving" what you recorded.
+While It's not a feature to save recorded events yet and probably never, you could do it yourself and print the ``events`` variable once you finished recording which then you could replace the variable's value when you need to as a way of "saving" what you recorded.
 
 **Fun fact: There are 0 required arguments**
 
