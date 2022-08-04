@@ -1,6 +1,6 @@
 # Mouse Recorder
 
-Provides a single python class that records mouse events and play them with two functions
+Provides a single python class that records mouse events and play them with two functions, every method is well-documented and easy to use.
 
 # Instructions
 
