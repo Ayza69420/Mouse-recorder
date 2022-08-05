@@ -41,4 +41,4 @@ Required libraries:
 
 m = Mouse(1e-20, "esc") # Creating an instance of the Mouse class with a 1e-20 event delay and escape stop key
 m.record(0) # Recording all events until escape key is pressed, wait 0 seconds before starting
-m.replay(False) # Playing all events, setting loop to False```
+m.replay(False) # Playing all events, setting loop to False
