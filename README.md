@@ -2,7 +2,7 @@
 
 Provides a single python class that records mouse events and play them with two functions, every method is well-documented and easy to use.
 
-There is no graphical interface just yet.
+There is no graphical interface just yet, meaning you have to manually set up everything.
 
 # Instructions
 
