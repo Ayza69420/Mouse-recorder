@@ -19,8 +19,8 @@ While It's not a feature to save recorded events yet and probably never, you cou
 # Installation
 
 - Clone the repository with git using ``git clone https://github.com/Ayza69420/Mouse-recorder.git``
-- Run ``cd Mouse-recorder``
-- Run ``pip install -r requirements.txt`` to install the required libraries
+- Run ``cd Mouse-recorder`` to set the current directory as the cloned repository
+- Run ``pip install -r requirements.txt`` to install the required libraries:
 
 Required libraries:
   - keyboard
