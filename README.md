@@ -14,7 +14,7 @@ Recording can be done using the ``record`` function, which will record all event
 
 While It's not a feature to save recorded events yet and probably never, you could do it yourself and print the ``events`` variable once you finished recording which then you could replace the variable's value when you need to as a way of "saving" what you recorded.
 
-**Fun fact: There are 0 required arguments in all methods, and you can modify the default arguments in your preference**
+**Fun fact: There are 0 required arguments in all methods, and you can modify the default arguments for your preference**
 
 # Installation
 
